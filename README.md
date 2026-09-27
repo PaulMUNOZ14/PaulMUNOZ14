@@ -20,7 +20,7 @@ Some of my projects include:
 I mainly work with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,php,md,mysql,git,vscode,eclipse,idea,windows,linux,arch,ubuntu,github\&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,php,md,mysql,git,vscode,eclipse,idea,windows,linux,arch,ubuntu,github,\&perline=6"/>
   </a>
 </p>
 
