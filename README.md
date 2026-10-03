@@ -1,4 +1,5 @@
-# Hey there! <img width="50" height="50" align="middle" alt="Mii Paul" src="https://github.com/user-attachments/assets/af782cb6-ffd9-4a92-a5e0-00ffa03dd92c" /> I'm [PaulMUNOZ14](https://github.com/PaulMUNOZ14), a French Computer Science student
+# Hey there! <img width="50" height="50" align="middle" alt="Mii Paul" src="https://github.com/user-attachments/assets/af782cb6-ffd9-4a92-a5e0-00ffa03dd92c" />
+## I'm [PaulMUNOZ14](https://github.com/PaulMUNOZ14), a French Computer Science student
 
 I'm currently studying for a **BUT in Computer Science** at **IUT Grand Ouest Normandie**.
 
