@@ -1,4 +1,4 @@
-# Hey there! <img width="512" height="512" alt="pol_rendu_personnalisé_2026-10-03T23_10_26 536Z" src="https://github.com/user-attachments/assets/6c917769-b427-4ae9-8fb5-b1e85f66fb04" />
+# Hey there! <img width="100" height="100" align="middle alt="Mii Paul 536Z" src="https://github.com/user-attachments/assets/6c917769-b427-4ae9-8fb5-b1e85f66fb04" />
 ## I'm [PaulMUNOZ14](https://github.com/PaulMUNOZ14), a French Computer Science student
 
 I'm currently studying for a **BUT in Computer Science** at **IUT Grand Ouest Normandie**.
