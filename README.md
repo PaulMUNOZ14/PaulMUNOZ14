@@ -15,8 +15,9 @@ Currently working on various personal and university projects involving **C, Jav
 
 Some of my projects include:
 
-* 🎮 [Mimesis Museum](https://github.com/PaulMUNOZ14/Mimesis) - MIMESIS - Strategy game in 2D.
-* 🎮 [Astrogame](https://github.com/PaulMUNOZ14/Astrogame) - Astrogame - Arcade style game.
+* 🚗 [Carnet Entretien](https://github.com/PaulMUNOZ14/CarnetEntretien) - Desktop application for managing the maintenance of your vehicles
+* 🎮 [Mimesis Museum](https://github.com/PaulMUNOZ14/Mimesis) - Strategy game in 2D where you escape a museum.
+* 🎮 [Astrogame](https://github.com/PaulMUNOZ14/Astrogame) - Arcade style game where you dodge meteorites.
 * 🌐 [Portfolio](https://github.com/PaulMUNOZ14/Portfolio) - My personal portfolio website.
 
 ## Technologies
