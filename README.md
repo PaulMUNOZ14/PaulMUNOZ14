@@ -16,7 +16,7 @@ Currently working on various personal and university projects involving **C, Jav
 Some of my projects include:
 
 * 🚗 [Carnet Entretien](https://github.com/PaulMUNOZ14/CarnetEntretien) - Desktop application for managing the maintenance of your vehicles
-* 🚗 [C4 Re:Configure](https://github.com/PaulMUNOZ14/C4-Re-Configure)- An independent website dedicated to the first-generation Citroën C4
+* 🚗 [C4 Re:Configure](https://github.com/PaulMUNOZ14/C4-Re-Configure) - An independent website dedicated to the first-generation Citroën C4
 * 🎮 [Mimesis Museum](https://github.com/PaulMUNOZ14/Mimesis) - Strategy game in 2D where you escape a museum.
 * 🎮 [Astrogame](https://github.com/PaulMUNOZ14/Astrogame) - Arcade style game where you dodge meteorites.
 * 🌐 [Portfolio](https://github.com/PaulMUNOZ14/Portfolio) - My personal portfolio website.
